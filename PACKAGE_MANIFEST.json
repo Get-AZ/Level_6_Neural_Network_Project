@@ -1,0 +1,95 @@
+{
+  "project": "Level 6 \u2014 Neural Network Project",
+  "package_name": "GitHub Repository",
+  "description": "Level 6 Neural Network \u2014 Clean Repository-Ready Package",
+  "release_status": "FINAL \u2014 VERIFIED \u2014 RELEASE READY",
+  "created_utc": "2026-08-19T18:50:46.269504Z",
+  "file_count": 16,
+  "files": [
+    {
+      "path": "docs/final_release/FINAL_MODEL_CARD.md",
+      "size_bytes": 973,
+      "sha256": "4f639d5187c257d2e48e837793a2b0bdb8ac1d29a4004521e5c97062dc0b6608"
+    },
+    {
+      "path": "docs/final_release/FINAL_PERFORMANCE_SUMMARY.md",
+      "size_bytes": 816,
+      "sha256": "ca1f66d1d2b15743efc7281f286052fffeb775cb77194822abf7bf1d5dcf53fd"
+    },
+    {
+      "path": "docs/final_release/FINAL_RELEASE_READINESS_STATEMENT.md",
+      "size_bytes": 767,
+      "sha256": "eb6930347d1f6743b9501a8b17c2bc54a724bf6627fe4dab3e8db26d4efcd6c4"
+    },
+    {
+      "path": "figures/final_evaluation/final_optimized_ann_pr_curve.png",
+      "size_bytes": 51435,
+      "sha256": "5d5575d48742164b507a0122bfd0daaa699cbb1ddbafbd265ecb1e62c1557ae7"
+    },
+    {
+      "path": "figures/final_evaluation/final_optimized_ann_roc_curve.png",
+      "size_bytes": 54217,
+      "sha256": "914461daea0a302f52d350ac0327508864ac57435a3e65002fe8c0f8f34a2d1b"
+    },
+    {
+      "path": "models/final_optimized/final_optimized_ann_trained.keras",
+      "size_bytes": 243377,
+      "sha256": "4b854d27a05386f3183989c1ebb2460e3cd0f0724e119d377cd8b1f87a23fb48"
+    },
+    {
+      "path": "models/preprocessing_config.pkl",
+      "size_bytes": 390,
+      "sha256": "787c23e98035e6ed40df23ea18dca44c035e5f156f12d74f9d68449b4e9eaf3a"
+    },
+    {
+      "path": "models/preprocessor.pkl",
+      "size_bytes": 5141,
+      "sha256": "1af7f12df1a0596bfd9e662d92fb403abfece85739ecacb743f553b72725d5a8"
+    },
+    {
+      "path": "models/processed_feature_names.pkl",
+      "size_bytes": 783,
+      "sha256": "d631741f736cfa97605d66e5f8b98cf34e342970a91feeb96ca11b317474db7d"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_classification_report.csv",
+      "size_bytes": 404,
+      "sha256": "2aa4870c76f96142d354eef6cd3138b6b1d2e054f396be5ee152ad71243f03b7"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_confusion_matrix.csv",
+      "size_bytes": 60,
+      "sha256": "0a2d1a981bae79354bb9f621d80c238365b2d7d75db4dd31a56430ab87d4d7f1"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_pr_curve.png",
+      "size_bytes": 51435,
+      "sha256": "5d5575d48742164b507a0122bfd0daaa699cbb1ddbafbd265ecb1e62c1557ae7"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_roc_curve.png",
+      "size_bytes": 54217,
+      "sha256": "914461daea0a302f52d350ac0327508864ac57435a3e65002fe8c0f8f34a2d1b"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_test_metrics.json",
+      "size_bytes": 736,
+      "sha256": "73269eb0939bb4f9cc6ecfff704cad7b9c0858ad4290aa72912b5c9205d3f615"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_test_predictions.npy",
+      "size_bytes": 54384,
+      "sha256": "dbdcecc2eb9b671dce6716b99919b5f4a5cc18956b0a41a15859f13573acbdf4"
+    },
+    {
+      "path": "outputs/final_optimized_evaluation/final_optimized_ann_test_probabilities.npy",
+      "size_bytes": 27256,
+      "sha256": "03b3027cd2fc6d11578fbc355a9bc27f5fe85de4cdf5c4a3dceaccc1e1be3fe2"
+    }
+  ],
+  "protected_test_data_excluded": true,
+  "nested_archives_excluded": true,
+  "temporary_artifacts_excluded": true,
+  "retraining_performed": false,
+  "hyperparameter_selection_during_release": false
+}

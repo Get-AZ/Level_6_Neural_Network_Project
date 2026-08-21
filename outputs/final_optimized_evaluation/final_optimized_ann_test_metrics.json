@@ -1,0 +1,28 @@
+{
+    "model": "Final Optimized ANN",
+    "experiment_id": 19,
+    "architecture": "ANN_Architecture_1_Baseline",
+    "hidden_layers": [
+        128,
+        64,
+        32
+    ],
+    "learning_rate": 0.0005,
+    "dropout": 0.3,
+    "batch_size": 64,
+    "optimizer": "adam",
+    "input_dimension": 52,
+    "threshold": 0.5,
+    "test_samples": 6782,
+    "test_loss": 0.32525881239321097,
+    "test_accuracy": 0.8475375995281628,
+    "test_precision": 0.42416614222781623,
+    "test_recall": 0.849936948297604,
+    "test_f1": 0.5659109991603695,
+    "test_roc_auc": 0.9203308208807363,
+    "test_pr_auc": 0.5990708969698725,
+    "true_negatives": 5074,
+    "false_positives": 915,
+    "false_negatives": 119,
+    "true_positives": 674
+}
