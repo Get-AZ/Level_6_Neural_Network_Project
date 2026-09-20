@@ -1,3 +1,5 @@
+![Level 6 Neural Network Project](./Level%206.png?raw=true)
+
 # Level 6 — Neural Network Project
 
 ## Bank Marketing Customer Subscription Prediction
